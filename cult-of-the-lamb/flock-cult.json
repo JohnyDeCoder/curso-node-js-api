@@ -1,0 +1,22 @@
+{
+    "name": "The Flock of the Sacred Lamb",
+    "deity": {
+        "name": "The Sacred Lamb",
+        "description": "The Sacred Lamb is a benevolent deity who watches over its followers and guides them towards enlightenment."
+    },
+    "rituals": [
+        {
+            "name": "The Offering",
+            "description": "Followers of the Sacred Lamb offer fruits and vegetables at the altar as a sign of their devotion."
+        },
+        {
+            "name": "The Pilgrimage",
+            "description": "Once a year, followers of the Sacred Lamb undertake a pilgrimage to a sacred site to seek guidance and blessings from their deity."
+        }
+    ],
+    "beliefs": [
+        "The Sacred Lamb is the one true deity and all others are false.",
+        "Through devotion and obedience to the Sacred Lamb, followers can achieve enlightenment and eternal happiness.",
+        "All life is sacred and must be treated with respect and compassion."
+    ]
+}

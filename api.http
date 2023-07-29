@@ -1,0 +1,29 @@
+### Recuperar el culto del rebaño del Cordero Sagrado
+GET http://localhost:3000/cult-of-the-lamb/flock-cult
+
+### Crear un nuevo culto
+POST http://localhost:3000/cult-of-the-lamb/
+Content-Type: application/json
+
+{
+    "name": "Culto de prueba",
+    "deity": {
+        "name": "Dios de prueba",
+        "description": "Dios de prueba"
+    },
+    "rituals": [
+        {
+            "name": "Ritual de prueba",
+            "description": "Ritual de prueba"
+        },
+        {
+            "name": "Ritual de prueba 2",
+            "description": "Ritual de prueba 2"
+        }
+    ],
+    "beliefs": [
+        "Creencia de prueba 1",
+        "Creencia de prueba 2",
+        "Creencia de prueba 3"
+    ]
+}
